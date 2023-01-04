@@ -29,3 +29,8 @@ The **pytest-xdist** plugin can be used to run the tests in parallel, which can 
 
 ## Test results
 The **pytest-html** plugin can be used to generate a HTML report of the test results, which makes it easier to understand the overall status of the tests and identify any failures.
+
+## Additional resources
+- [Pytest documentation](https://docs.pytest.org/en/stable/)
+- [Selenium documentation](https://www.selenium.dev/documentation/)
+- [Page Object Model (POM) in Selenium](https://www.guru99.com/page-object-model-pom-page-factory-in-selenium-ultimate-guide.html)
