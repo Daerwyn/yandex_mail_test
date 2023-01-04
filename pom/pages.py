@@ -1,5 +1,5 @@
 from pom.main_page import MainPage
-from pom.homepage import HomePage
+from pom.home_page import HomePage
 
 
 class Pages:
