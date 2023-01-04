@@ -9,8 +9,8 @@ class MainPage(SeleniumBase):
         self.username = "valik-garkovenko" # введите логин
         self.password = "" # введите пароль
         self.main_page_wrapper = "//div[@class='PageWrapper_2aGaNaGauHNRzr8W2U0GwV']"
-        self.authorisation_button = "//button[@class='Button2 Button2_size_m Button2_view_orange Button2_weight_500 " \
-                                    "Button_3YGxEShvAi7lB8DLgdG3y8 PSHeader-NoLoginButton']"
+        self.authorisation_button = "//button[@class='Button2 Button2_size_m Button2_view_orange " \
+                                    "Button2_weight_500 Button_3bxRfn2dtuSMoNjFiugM29 PSHeader-NoLoginButton']"
         self.username_input = "//input[@name='login']"
         self.password_input = "//input[@id='passp-field-passwd' and @name='passwd']"
         self.mail_folders = "// div[ @class ='Folders-m__root--cgVbj qa-LeftColumn-Folders']"
