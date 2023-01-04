@@ -8,7 +8,7 @@ class MainPage(SeleniumBase):
         super().__init__(driver)
         self.username = "valik-garkovenko"  # введите логин
         self.password = ""  # введите пароль
-        self.main_page_wrapper = "//div[@class='PageWrapper_2aGaNaGauHNRzr8W2U0GwV']"
+        self.main_page_wrapper = "//div[@class='wrapper_3p9b_C-rednL3V4gUVb3bv']"
         self.authorisation_button = "//button[@class='Button2 Button2_size_m Button2_view_orange " \
                                     "Button2_weight_500 Button_3bxRfn2dtuSMoNjFiugM29 PSHeader-NoLoginButton']"
         self.username_input = "//input[@name='login']"
